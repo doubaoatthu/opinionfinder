@@ -1,0 +1,3 @@
+OpinionFinder is a system that performs subjectivity analysis, automatically identifying when opinions, sentiments, speculations and other private states are present in text. Specifically, OpinionFinder aims to identify subjective sentences and to mark various aspects of the subjectivity in these sentences, including the source (holder) of the subjectivity and words that are included in phrases expressing positive or negative sentiments.
+
+We are currently rewriting OpinionFinder, implementing it entirely in Java 1.6 in order to overcome compatibility problems and installation difficulties. The original OpinionFinder site can be found at http://www.cs.pitt.edu/mpqa.
